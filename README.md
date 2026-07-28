@@ -4,7 +4,7 @@ I'm an Automation student exploring the intersection of **Spatial Intelligence**
 
 **Algorithmic Pursuits:** Continuously sharpening algorithmic foundations and competitive programming skills to build more elegant and robust physical systems.
 
-**Current Explorations:** VLA (Vision-Language-Action) Edge Deployment, Quant Trading, FPGA/SDR, Robotics(especially in spatial intellingence) and Multi-Agent Systems.
+**Current Explorations:** VLA (Vision-Language-Action) Edge Deployment, Embodied AI, FPGA/SDR, Robotics(especially in spatial intelligence) and Multi-Agent Systems.
 
 **Engineering & Architecture:** * *Tech Lead @ XMU-RCS Robomaster 2025-2026* (Sentry Vision & Radar Systems).
 
