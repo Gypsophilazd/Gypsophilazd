@@ -6,9 +6,9 @@ I'm an Automation student exploring the intersection of **Spatial Intelligence**
 
 **Current Explorations:** VLA (Vision-Language-Action) Edge Deployment, Embodied AI, FPGA/SDR, Robotics(especially in spatial intelligence) and Multi-Agent Systems.
 
-**Engineering & Architecture:** * Tech Lead @ XMU RCS18(Robomaster) 2025-2026 (Sentry Vision & Radar Systems).
-                                 
-                                *Undergraduate Research Intern @ XMU spAtial Sensing and Computing Lab 2026 (Embodied Intelligence)
+**Engineering & Architecture:** * Tech Lead @ XMU RCS18(Robomaster) 2025-2026 (Sentry Vision & Radar Systems)
+
+                                * Undergraduate Research Intern @ XMU spAtial Sensing and Computing Lab 2026 (Embodied Intelligence)
 
 **Tech Stack:** * ![C++](https://img.shields.io/badge/-C++17-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
